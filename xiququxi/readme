@@ -1,0 +1,13 @@
+一般下载后能运行，如果不能：
+
+1，修改\build.gradle
+dependencies { classpath 'com.android.tools.build:gradle: ' }
+：后面改成自己的版本
+
+2，修改\gradle\wrapper\gradle-wrapper.properties
+
+distributionUrl=http\://services.gradle.org/distributions/gradle-1.8-all.zip
+改成自己的版本
+
+3，修改\gradle.properties
+除了注释全改成你的版本
