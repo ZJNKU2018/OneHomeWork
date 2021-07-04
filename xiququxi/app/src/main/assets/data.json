@@ -1,0 +1,171 @@
+[{
+ "chapterId": 1,
+ "data": [
+  {
+   "videoId": "1",
+   "title": "京剧",
+   "secondTitle": "贵妃醉酒",
+   "videoPath": "https://vd3.bdstatic.com/mda-ketqywmahgkbd91a/hd/mda-ketqywmahgkbd91a.mp4"
+  },
+  {
+   "videoId": "2",
+   "title": "京剧",
+   "secondTitle": "群英会",
+   "videoPath": "https://vd3.bdstatic.com/mda-jg3hhs3hhm7zg255/sc/mda-jg3hhs3hhm7zg255.mp4"
+  }
+ ]
+},
+ {
+  "chapterId": 2,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "豫剧",
+    "secondTitle": "穆桂英挂帅",
+    "videoPath": "https://vd2.bdstatic.com/mda-mdq1vs4xket8erjb/fhd/cae_h264_nowatermark/1619314443/mda-mdq1vs4xket8erjb.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "豫剧",
+    "secondTitle": "花木兰",
+    "videoPath": "https://vd2.bdstatic.com/mda-me7ewby8cehta3vd/sc/cae_h264_clips/1620470657714549532/mda-me7ewby8cehta3vd.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 3,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "评剧",
+    "secondTitle": "刘巧儿",
+    "videoPath": "https://vd2.bdstatic.com/mda-md6cgq8pbt1ah91k/sc/cae_h264_clips/1617757202/mda-md6cgq8pbt1ah91k.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "评剧",
+    "secondTitle": "秦香莲",
+    "videoPath": "https://vd3.bdstatic.com/mda-me0g9khczt8rfug8/480p/h264/1619868845194640263/mda-me0g9khczt8rfug8.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 4,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "越剧",
+    "secondTitle": "花中君子-赠银",
+    "videoPath": "https://vd3.bdstatic.com/mda-mavfz4xur1amv0g9/v1-cae/hd/mda-mavfz4xur1amv0g9.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "越剧",
+    "secondTitle": "红楼梦-黛玉葬花",
+    "videoPath": "https://vd4.bdstatic.com/mda-jm4nmqyze6rzxefi/sc/mda-jm4nmqyze6rzxefi.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 5,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "昆曲",
+    "secondTitle": "游园惊梦",
+    "videoPath": "https://vd3.bdstatic.com/mda-jafgtejyu2xp78tk/sc/mda-jafgtejyu2xp78tk.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "昆曲",
+    "secondTitle": "桃花扇",
+    "videoPath": "https://vd2.bdstatic.com/mda-kikx32g58szdebs1/hd/mda-kikx32g58szdebs1.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 6,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "河南曲剧",
+    "secondTitle": "陈三两",
+    "videoPath": "https://vd3.bdstatic.com/mda-imvr35mkxb63a5pe/sc/mda-imvr35mkxb63a5pe.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "河南曲剧",
+    "secondTitle": "卖娘",
+    "videoPath": "https://vd2.bdstatic.com/mda-kekw1wy2km92jes0/hd/mda-kekw1wy2km92jes0.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 7,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "黄梅戏",
+    "secondTitle": "天仙配",
+    "videoPath": "https://vd3.bdstatic.com/mda-mdm1ztkiqyf9eq32/sc/cae_h264_clips/1619091671/mda-mdm1ztkiqyf9eq32.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "黄梅戏",
+    "secondTitle": "牛郎织女",
+    "videoPath": "https://vd3.bdstatic.com/mda-md8cin7r0f1g9cmg/cae_h264_clips/1617930181/mda-md8cin7r0f1g9cmg.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 8,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "吕剧",
+    "secondTitle": "李二嫂改嫁",
+    "videoPath": "https://vd2.bdstatic.com/mda-jjrtf6r0kg80hfs3/sc/mda-jjrtf6r0kg80hfs3.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "吕剧",
+    "secondTitle": "姊妹易嫁",
+    "videoPath": "https://vd3.bdstatic.com/mda-mf594bsk6i6dkmik/1080p/cae_h264/1622961459511332459/mda-mf594bsk6i6dkmik.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 9,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "越调",
+    "secondTitle": "收姜维",
+    "videoPath": "https://vd2.bdstatic.com/mda-mcq359a7vmm8f7u3/sc/cae_h264_clips/1616639433/mda-mcq359a7vmm8f7u3.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "越调",
+    "secondTitle": "哭四门",
+    "videoPath": "https://vd4.bdstatic.com/mda-ke6bzxw2bzjtgrpr/sc/mda-ke6bzxw2bzjtgrpr.mp4"
+   }
+  ]
+ },
+ {
+  "chapterId": 10,
+  "data": [
+   {
+    "videoId": "1",
+    "title": "沪剧",
+    "secondTitle": "罗汉钱·回忆",
+    "videoPath": "https://vd2.bdstatic.com/mda-jm2v0vj883sjbt9j/hd/mda-jm2v0vj883sjbt9j.mp4"
+   },
+   {
+    "videoId": "2",
+    "title": "沪剧",
+    "secondTitle": "江姐—望山城",
+    "videoPath": "https://vd4.bdstatic.com/mda-kikbzfvkj9j6679b/hd/mda-kikbzfvkj9j6679b.mp4"
+   }
+  ]
+ }
+]

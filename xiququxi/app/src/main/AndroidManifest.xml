@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myself.example.android.xiququxi">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!--原为android:theme="@style/AppTheme"-->
+    <!--去除ActionBar标题栏-->
+    <!--添加应用图标，app_icon-->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name="com.myself.example.android.xiququxi.activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--添加实现类-->
+        <activity android:name="com.myself.example.android.xiququxi.activity.MainActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.LoginActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.RegisterActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.SettingActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.ModifyPswActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.FindPswActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.UserInfoActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.ChangeUserInfoActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.ExercisesDetailActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.VideoListActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.VideoPlayActivity"></activity>
+        <activity android:name="com.myself.example.android.xiququxi.activity.PlayHistoryActivity"></activity>
+    </application>
+</manifest>

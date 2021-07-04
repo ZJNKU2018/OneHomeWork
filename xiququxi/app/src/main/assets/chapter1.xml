@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.京剧形成于何地（）。</subject>
+      <a>河南</a>
+      <b>南京</b>
+      <c>北京</c>
+      <d>东京</d>
+      <answer>3</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.京剧的形成时间（）。</subject>
+      <a>1820</a>
+      <b>1900</b>
+      <c>1860</c>
+      <d>1840</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.下面哪个是京剧曲目（）。</subject>
+      <a>天仙配</a>
+      <b>贵妃醉酒</b>
+      <c>游园惊梦</c>
+      <d>黛玉葬花</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.下面哪种腔调属于京剧（）。</subject>
+      <a>昆腔</a>
+      <b>梆子腔</b>
+      <c>皮黄腔</c>
+      <d>高腔</d>
+      <answer>3</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.下列哪个属于京剧的显著特点（）。</subject>
+      <a>气势宏美</a>
+      <b>淳朴流畅</b>
+      <c>通俗易懂</c>
+      <d>长于抒情</d>
+      <answer>1</answer>
+  </exercises>
+</infos>

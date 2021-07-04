@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+    <exercises id="1">
+        <subject>1.（）。</subject>
+        <a>1</a>
+        <b>1</b>
+        <c>1</c>
+        <d>1</d>
+        <answer>3</answer>
+    </exercises>
+    <exercises id="2">
+        <subject>2.（）。</subject>
+        <a>1</a>
+        <b>1</b>
+        <c>1</c>
+        <d>1</d>
+        <answer>4</answer>
+    </exercises>
+    <exercises id="3">
+        <subject>3.（）。</subject>
+        <a>1</a>
+        <b>1</b>
+        <c>1</c>
+        <d>1</d>
+        <answer>2</answer>
+    </exercises>
+    <exercises id="4">
+        <subject>4.（）。</subject>
+        <a>1</a>
+        <b>1</b>
+        <c>1</c>
+        <d>1</d>
+        <answer>3</answer>
+    </exercises>
+    <exercises id="5">
+        <subject>5.（）。</subject>
+        <a>1</a>
+        <b>1</b>
+        <c>1</c>
+        <d>1</d>
+        <answer>1</answer>
+    </exercises>
+</infos>

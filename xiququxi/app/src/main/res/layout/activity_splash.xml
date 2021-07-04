@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--添加一张欢迎界面的背景-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width = "match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/launch_bg">
+    <!--显示版本号-->
+    <TextView
+        android:id="@+id/tv_version"
+        android:layout_width="10dp"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="684dp"
+        android:layout_marginEnd="203dp"
+        android:layout_marginBottom="38dp"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+</RelativeLayout>
